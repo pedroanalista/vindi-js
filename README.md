@@ -19,9 +19,10 @@ var client = new Vindi('YOURAPIKEY');
 ```
 
 To Sandbox:
-
+```
 var Vindi = require('vindi-js');
 
 var client = new Vindi('YOURAPIKEY', { production: false });
+```
 
 To start I recommend you this [article](https://atendimento.vindi.com.br/hc/pt-br/articles/203020644).
